@@ -5,4 +5,4 @@ nudging margins and paddings around responsively, e.g. `.lap-mb0`, `.desk-mb++`.
 
 Install using Bower:
 
-    $ bower install --save inuit-spacing-responsive
+    $ bower install --save zomars-inuit-spacing-responsive
