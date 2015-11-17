@@ -5,8 +5,4 @@ nudging margins and paddings around responsively, e.g. `.u-mb0@lap`, `.u-mb-larg
 
 Install using Bower:
 
-    $ bower install --save inuit-spacing-responsive
-
-Install using npm:
-
-    $ npm install --save inuit-responsive-spacing
+    $ bower install --save ancla-inuit-spacing-responsive
