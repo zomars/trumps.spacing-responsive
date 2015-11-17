@@ -1,5 +1,5 @@
 {
-  "name": "inuit-spacing-responsive",
+  "name": "ancla-inuit-spacing-responsive",
   "version": "0.1.0",
   "authors": [
     "Harry Roberts <harry@csswizardry.com>"
@@ -13,7 +13,7 @@
     "rwd"
   ],
   "license": "Apache 2",
-  "homepage": "https://github.com/inuitcss/trumps.spacing-responsive",
+  "homepage": "https://github.com/zomars/trumps.spacing-responsive",
   "dependencies": {
     "inuit-defaults": "~0.2.1",
     "inuit-responsive-settings": "~0.1.2",
